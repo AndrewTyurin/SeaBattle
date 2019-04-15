@@ -1,0 +1,17 @@
+The game is played on four grids, two for each player.
+The size of the grids is 10 x 10. Individual squares in the grid are identified by letter and number.
+On one grid the player arranges ships and records the shots by the opponent. On the other grid the player records their own shots.
+
+Before play begins, each player secretly arranges their ships on their primary grid.
+Each ship occupies a number of consecutive squares on the grid, arranged either horizontally or vertically.
+The number of squares for each ship is determined by the type of the ship.
+The ships cannot overlap (i.e., only one ship can occupy any given square in the grid). 
+
+The types and numbers of allowed ships for each player:
+*table*
+Type of ship:Size:Number per player
+
+Battleship (Four-decker) :4:1
+Cruiser (Three-decker) :3:2
+Destroyer (Two-decker) :2:3
+Submarine (Single-decker) :1:4
